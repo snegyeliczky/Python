@@ -1,0 +1,4 @@
+Az ajánlat paraméterei a következöek: 
+ásás: 12856 Forint
+füvesítés: 58625 Forint
+összesen: 71481 Forint
