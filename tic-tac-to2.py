@@ -14,7 +14,7 @@ def print_board():
 def control():
     for i in range(len(board)):
         if board[i]== "X" and board[i+1] == "X" and board[i+2] == "X":
-            print("X winn")
+            print("X winn that time")
             
 
 while True:
